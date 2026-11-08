@@ -87,7 +87,7 @@
      "valor": -1
     },
     {
-     "texto": "«Contame lo importante, quién y qué»",
+     "texto": "«Contame lo importante: quién, qué y dónde»",
      "valor": 0
     },
     {
@@ -102,7 +102,7 @@
    "texto": "Un fantasma te dejó una carta debajo de la puerta. ¿Qué te gustaría encontrar al abrirla?",
    "opciones": [
     {
-     "texto": "Un papelito que dice «Boo.» y nada más",
+     "texto": "Un papelito arrugado que dice «Boo.» y nada más",
      "valor": -1
     },
     {
@@ -110,7 +110,7 @@
      "valor": 0
     },
     {
-     "texto": "Tres tomos encuadernados, con índice y todo",
+     "texto": "Tres tomos encuadernados, con índice",
      "valor": 1
     }
    ]
@@ -121,15 +121,15 @@
    "texto": "Una tortuga de 150 años te ofrece contarte su vida. Con toda la paciencia del mundo, eso sí. ¿Qué versión le pedís?",
    "opciones": [
     {
-     "texto": "«Dame el tráiler, porfa»",
+     "texto": "«Dame el tráiler, que se me enfría el mate»",
      "valor": -1
     },
     {
-     "texto": "«La peli está bien»",
+     "texto": "«Contame la peli, con lo importante»",
      "valor": 0
     },
     {
-     "texto": "«Quiero la serie completa, con detrás de escena»",
+     "texto": "«La serie completa, con detrás de escena»",
      "valor": 1
     }
    ]
@@ -140,15 +140,15 @@
    "texto": "Te vas de viaje y el pingüino del depto de al lado te riega las plantas. ¿Qué nota le dejás?",
    "opciones": [
     {
-     "texto": "«Agua. Martes.»",
+     "texto": "Un post-it gigante que dice «Agua. Martes.»",
      "valor": -1
     },
     {
-     "texto": "Una listita con qué planta y cuándo",
+     "texto": "Una listita prolija con qué planta regar y cuándo",
      "valor": 0
     },
     {
-     "texto": "Un manual con el nombre y la historia de cada planta",
+     "texto": "Un manual con la historia de cada planta",
      "valor": 1
     }
    ]

@@ -54,6 +54,13 @@ class TestBanco(unittest.TestCase):
             q.armar_bloque(self.banco, todos(self.banco, n))
 
 
+    def test_largo_no_delata_el_valor(self):
+        # En el eje «largo» la opción más larga no puede ser siempre la de +1.
+        ps = [p for p in self.banco["preguntas"] if p["eje"] == "largo"]
+        mas_largas = [max(p["opciones"], key=lambda o: len(o["texto"]))["valor"] for p in ps]
+        self.assertLess(mas_largas.count(1), len(ps) // 2 + 1)
+
+
 class TestSortear(unittest.TestCase):
     def setUp(self):
         self.banco = q.cargar()
