@@ -3,3 +3,7 @@ __pycache__/
 # Notas locales y reportes de análisis: no se publican
 CLAUDE.md
 docs/analisis/
+*.bak
+# Notas de trabajo del autor: no se publican
+PLAN.md
+PUNTO-DE-GUARDADO.md

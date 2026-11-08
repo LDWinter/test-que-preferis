@@ -4,7 +4,7 @@
    "nombre": "Cuánto escribe Claude",
    "bajo": {
     "regla": "Respuestas cortas: lo justo y necesario, sin introducciones ni resúmenes de lo que ya se dijo.",
-    "remate": "Elegiste como alguien que contesta los audios de 3 minutos con un «ok»."
+    "remate": "Sos de los que contestan los audios de 3 minutos con un «ok»."
    },
    "medio": {
     "regla": "Largo de respuesta según la pregunta: corto para lo simple, detallado solo cuando hace falta.",
@@ -78,7 +78,7 @@
  },
  "preguntas": [
   {
-   "id": "largo-1",
+   "id": "p18",
    "eje": "largo",
    "texto": "Te cruzás al loro chusma del barrio y te dice «¿te cuento lo que pasó con la del tercero?». Vos le decís…",
    "opciones": [
@@ -97,7 +97,7 @@
    ]
   },
   {
-   "id": "largo-2",
+   "id": "p16",
    "eje": "largo",
    "texto": "Un fantasma te dejó una carta debajo de la puerta. ¿Qué te gustaría encontrar al abrirla?",
    "opciones": [
@@ -116,7 +116,7 @@
    ]
   },
   {
-   "id": "largo-3",
+   "id": "p12",
    "eje": "largo",
    "texto": "Una tortuga de 150 años te ofrece contarte su vida. Con toda la paciencia del mundo, eso sí. ¿Qué versión le pedís?",
    "opciones": [
@@ -135,7 +135,7 @@
    ]
   },
   {
-   "id": "largo-4",
+   "id": "p19",
    "eje": "largo",
    "texto": "Te vas de viaje y el pingüino del depto de al lado te riega las plantas. ¿Qué nota le dejás?",
    "opciones": [
@@ -154,7 +154,7 @@
    ]
   },
   {
-   "id": "autonomia-1",
+   "id": "p08",
    "eje": "autonomia",
    "texto": "Contrataste a un mapache para que te ordene la cocina (es un crack, dicen). Antes de irte le decís…",
    "opciones": [
@@ -173,7 +173,7 @@
    ]
   },
   {
-   "id": "autonomia-2",
+   "id": "p07",
    "eje": "autonomia",
    "texto": "Tu robot mayordomo huele que se te está quemando la tostada. ¿Qué esperás que haga?",
    "opciones": [
@@ -192,7 +192,7 @@
    ]
   },
   {
-   "id": "autonomia-3",
+   "id": "p20",
    "eje": "autonomia",
    "texto": "Un dragón amigo te pide la casa para el finde. Le das las llaves y le decís…",
    "opciones": [
@@ -211,7 +211,7 @@
    ]
   },
   {
-   "id": "autonomia-4",
+   "id": "p04",
    "eje": "autonomia",
    "texto": "Una ardilla re organizada se ofrece a armarte el cumpleaños. ¿Hasta dónde la dejás decidir?",
    "opciones": [
@@ -230,7 +230,7 @@
    ]
   },
   {
-   "id": "tono-1",
+   "id": "p15",
    "eje": "tono",
    "texto": "Te toca el timbre un pulpo cartero con un paquete. ¿Cómo te gustaría que te salude?",
    "opciones": [
@@ -249,7 +249,7 @@
    ]
   },
   {
-   "id": "tono-2",
+   "id": "p01",
    "eje": "tono",
    "texto": "Tu heladera aprendió a hablar (nadie sabe cómo). ¿Cómo preferís que te avise que no queda leche?",
    "opciones": [
@@ -268,7 +268,7 @@
    ]
   },
   {
-   "id": "tono-3",
+   "id": "p10",
    "eje": "tono",
    "texto": "Un búho profesor te devuelve el examen corregido. ¿Cómo te gusta que venga?",
    "opciones": [
@@ -287,7 +287,7 @@
    ]
   },
   {
-   "id": "tono-4",
+   "id": "p06",
    "eje": "tono",
    "texto": "Quedaste con un caracol y te escribe porque viene atrasado. ¿Qué mensaje te cae mejor?",
    "opciones": [
@@ -306,7 +306,7 @@
    ]
   },
   {
-   "id": "riesgo-1",
+   "id": "p17",
    "eje": "riesgo",
    "texto": "En tu heladería de siempre aparece un gusto nuevo: «sorpresa del chef (no preguntes)». ¿Qué hacés?",
    "opciones": [
@@ -325,7 +325,7 @@
    ]
   },
   {
-   "id": "riesgo-2",
+   "id": "p09",
    "eje": "riesgo",
    "texto": "Un mago te ofrece teletransportarte al laburo. Detalle: es la primera vez que lo intenta. ¿Te animás?",
    "opciones": [
@@ -344,7 +344,7 @@
    ]
   },
   {
-   "id": "riesgo-3",
+   "id": "p14",
    "eje": "riesgo",
    "texto": "En la bicicletería te ofrecen ruedas normales o unas «cuánticas» que inventaron ayer. ¿Cuáles te llevás?",
    "opciones": [
@@ -363,7 +363,7 @@
    ]
   },
   {
-   "id": "riesgo-4",
+   "id": "p03",
    "eje": "riesgo",
    "texto": "Un gato callejero te jura que conoce un atajo que «nunca falla». ¿Qué hacés?",
    "opciones": [
@@ -382,7 +382,7 @@
    ]
   },
   {
-   "id": "explicacion-1",
+   "id": "p02",
    "eje": "explicacion",
    "texto": "Un mago saca un conejo de tu mochila. Quedaste con la boca abierta. ¿Y ahora?",
    "opciones": [
@@ -401,7 +401,7 @@
    ]
   },
   {
-   "id": "explicacion-2",
+   "id": "p13",
    "eje": "explicacion",
    "texto": "Tu abuela decidió pasarte la receta secreta de las empanadas. ¿Cómo querés que te la pase?",
    "opciones": [
@@ -420,7 +420,7 @@
    ]
   },
   {
-   "id": "explicacion-3",
+   "id": "p05",
    "eje": "explicacion",
    "texto": "Un mecánico extraterrestre te arregló el auto. ¿Qué te llevás además del auto?",
    "opciones": [
@@ -439,7 +439,7 @@
    ]
   },
   {
-   "id": "explicacion-4",
+   "id": "p11",
    "eje": "explicacion",
    "texto": "Alguien se comió tu alfajor y un detective ya resolvió el caso. ¿Cómo querés el informe?",
    "opciones": [
