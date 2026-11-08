@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+# Notas locales y reportes de análisis: no se publican
+CLAUDE.md
+docs/analisis/
